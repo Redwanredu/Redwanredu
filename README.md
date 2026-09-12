@@ -28,7 +28,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-redwanislam-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/redwanislam/)
 [![Email](https://img.shields.io/badge/Email-redwanredu110@gmail.com-2A7B8C?style=flat-square&logo=gmail)](mailto:redwanredu110@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-redwanislam.github.io-0F1C2E?style=flat-square&logo=github)](https://redwanislam.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-redwanislam.github.io-0F1C2E?style=flat-square&logo=github)](https://redwanredu.github.io)
 
 ---
 
