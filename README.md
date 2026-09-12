@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Redwan Islam 👋
 
-<!--
-**Redwanredu/Redwanredu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https://komarev.com/ghpvc/?username=redwanislam&color=00C2CB&style=flat-square&label=Profile+Views)
 
-Here are some ideas to get you started:
+**MSc Student · Automotive Software Engineering · TU Chemnitz, Germany**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🎓 Pursuing my Master's in **Automotive Software Engineering** at Chemnitz University of Technology  
+🌍 Originally from Dhaka, Bangladesh — currently based in **Chemnitz, Germany**  
+🔍 Actively looking for an **internship or working student position** in Germany  
+💬 Languages: Bengali (native) · English (C1) · German (A2, improving)
+
+---
+
+### 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-redwanislam-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/redwanislam/)
+[![Email](https://img.shields.io/badge/Email-redwanredu110@gmail.com-2A7B8C?style=flat-square&logo=gmail)](mailto:redwanredu110@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-redwanislam.github.io-0F1C2E?style=flat-square&logo=github)](https://redwanislam.github.io)
+
+---
+
+*Open to internship and working student opportunities in Germany 🇩🇪*
