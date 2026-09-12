@@ -13,12 +13,19 @@
 
 ---
 
+### 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
 
 ### 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-redwanislam-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/redwanislam/)
 [![Email](https://img.shields.io/badge/Email-redwanredu110@gmail.com-2A7B8C?style=flat-square&logo=gmail)](mailto:redwanredu110@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-redwanislam.github.io-0F1C2E?style=flat-square&logo=github)](https://redwanredu.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-redwanislam.github.io-0F1C2E?style=flat-square&logo=github)](https://redwanislam.github.io)
 
 ---
 
