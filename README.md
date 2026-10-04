@@ -8,7 +8,7 @@
 🎓 Pursuing my Master's in **Automotive Software Engineering** at Chemnitz University of Technology  
 🌍 Originally from Dhaka, Bangladesh — currently based in **Chemnitz, Germany**  
 🔍 Actively looking for an **internship or working student position** in Germany  
-💬 Languages: Bengali (native) · English (C1) · German (A2, improving)
+💬 Languages: Bengali (native) · English (C1) · German (B1, learning)
 
 ---
 
@@ -28,4 +28,4 @@
 
 ---
 
-*Open to internship and working student opportunities in Germany 🇩🇪*
+*Open to internship and working student opportunities in Germany*
