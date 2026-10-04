@@ -1,6 +1,5 @@
 # Hi, I'm Redwan Islam 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=redwanislam&color=00C2CB&style=flat-square&label=Profile+Views)
 
 **MSc Student · Automotive Software Engineering · TU Chemnitz, Germany**
 
